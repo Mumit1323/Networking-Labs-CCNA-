@@ -1,2 +1,2 @@
-# Networking-Labs-CCNA-
+# Networking-Labs-CCNA
 Here are the labs for CCNA from JITL
